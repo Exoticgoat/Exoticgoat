@@ -18,6 +18,10 @@ Computer Science undergrad at Penn State. I build systems software, work on full
 
 `Python` · `C++` · `C#/.NET` · `C` · `Swift` · `Java` · `Assembly`
 
+## Tech
+
+`AWS` · `Docker` · `kubernetes` · `MongoDB` · `PostgreSQL` · `Git` · `PyTorch` · `TensorFlow`  
+
 ## Reach me
 
 - LinkedIn: www.linkedin.com/in/ulyssesdaly
