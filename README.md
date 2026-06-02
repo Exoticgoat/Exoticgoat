@@ -9,6 +9,19 @@ Computer Science undergrad at Penn State. I build systems software, work on full
 - **Machine learning** - applied ML for prediction tasks (XGBoost, ONNX)
 - **Research** - computational number theory, lattice-based cryptography, ML
 
+## Currently
+
+- Computational number theory reserch into partitions and prime gaps
+- Onboard orbit-determination system for LEO satellites (EKF in C on VxWorks)
+
+## Languages
+
+`Python` · `C++` · `C#/.NET` · `C` · `Swift` · `Java` · `Assembly`
+
+## Reach me
+
+- LinkedIn: www.linkedin.com/in/ulyssesdaly
+
 
 <!--
 **Exoticgoat/Exoticgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
