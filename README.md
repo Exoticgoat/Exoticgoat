@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ulysses 👋
+
+Computer Science undergrad at Penn State. I build systems software, work on full-stack applications, and perform research in computational number theory and ML.
+
+## What I work on
+
+- **Systems & low-level** - C/C++ for OS development, real-time embedded systems, and computational number theory
+- **Cloud & backend** - AWS, containerized services (Docker), REST APIs (Node.js, .NET)
+- **Machine learning** - applied ML for prediction tasks (XGBoost, ONNX)
+- **Research** - computational number theory, lattice-based cryptography, ML
+
 
 <!--
 **Exoticgoat/Exoticgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
