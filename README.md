@@ -14,12 +14,9 @@ Computer Science undergrad at Penn State. I build systems software, work on full
 - Computational number theory reserch into partitions and prime gaps
 - Onboard orbit-determination system for LEO satellites (EKF in C on VxWorks)
 
-## Languages
-
-`Python` · `C++` · `C#/.NET` · `C` · `Swift` · `Java` · `Assembly`
-
 ## Tech
 
+`Python` · `C++` · `C#/.NET` · `C` · `Swift` · `Java` · `Assembly`
 `AWS` · `Docker` · `kubernetes` · `MongoDB` · `PostgreSQL` · `Git` · `PyTorch` · `TensorFlow`  
 
 ## Reach me
